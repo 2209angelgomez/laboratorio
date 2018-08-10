@@ -1,0 +1,145 @@
+
+h1{
+	color: red;
+	font-size: 40px;
+}
+
+h2{
+	color: red;
+	background-color: green;
+}
+
+h3{
+	color: white;
+	background-color: green;
+}
+
+.software {
+	color: red;
+	font-size: 45px ;
+	font-style: normal
+}
+
+.barra{
+	color: red;
+	background-color: yellow;
+}
+
+.libertad{
+	background-color: gray;
+	font-style: normal;
+	font-family: georgia;
+
+}
+
+.programa{
+	background-color: red;
+	font-style: normal;
+	color: black;
+}
+
+
+
+.parrafo{
+	font-style: normal;
+	font-family: courier new;
+}
+
+
+.sub{
+	background-color: blue;
+	color: white;
+}
+
+.ñu{
+	background-color: #8FFF7D;
+	color: green;
+	text-align: center;
+}
+
+.tex{
+	background-color: yellow;
+}
+
+.negr{
+	color: white;
+	background-color: black;
+	display: inline;
+}
+
+.richard{
+	color: white;
+	background-color: black;
+
+}
+
+.ñu2{
+	color: blue;
+	background-color: black;
+	font-size: 35px;
+	font-style: normal;
+
+}
+
+
+.titulo{
+	
+	font-size: 40px;
+	text-align: center;
+}
+
+
+
+}
+
+.liber{
+	background-color: gray;
+}
+
+
+h5{
+	color: black;
+	background-color: gray;
+	font-style: normal;
+}
+
+
+
+.subt{
+	background-color: red;
+}
+
+
+
+.texto{
+	color: white;
+	background-color: gray;
+}
+
+
+
+.u1{
+	color: white;
+	background-color: green;
+}
+
+.subt2{
+	background-color: green;
+}
+
+.subt3{
+	background-color: black;
+	color: white;
+}
+
+.subt4{
+	background-color: gray;
+}
+
+
+.u1{
+	color: white;
+	background-color: green;
+}
+
+
